@@ -1,0 +1,121 @@
+div{
+    background-color: white;
+    margin: 0px;
+}
+
+body{
+    margin: 0px;
+    text-align: center;
+    font-family: 'Caveat', cursive;
+    font-size: large;
+    
+}
+h1{
+    margin: 0px;
+    color:;
+    width: 100%;
+    margin: 0, auto, 0, auto;
+    font-family: 'Parisienne', cursive;
+    font-size: 400%;
+    margin: 20px, auto, 0 , auto;
+    color: #944e6c;
+    
+}
+.upperbody{
+    padding-top: 130px;
+}
+.middlebody{
+   background-color: #83a95c;
+}
+.lowerbody{
+
+}
+p{
+    font-family: 'Baloo Tamma 2', cursive;
+    font-size: 150%;
+    margin-top: 0;
+    color: #433d3c;
+    font-weight: normal;
+}
+
+.table{
+    text-align: left;
+}
+h2{
+     font-family: 'Baloo Tamma 2', cursive;
+     color: #654062;
+}
+h4{
+     font-family: 'Baloo Tamma 2', cursive;
+     text-decoration: underline;
+     color: #433d3c;
+     
+}
+ hr{
+            border-style: none;
+            border-top-style: dotted;
+            border-color: #83a95c;
+            width: 20%;
+            border-width: 5px;
+            
+        }
+        .end{
+            font-size: 100%;
+        }
+        h3{
+            font-size: 150%;
+            color: #83a95c;
+        }
+        .ok{
+            font-size: 250%;
+        }
+
+        .btn {
+  background: #d934c6;
+  background-image: -webkit-linear-gradient(top, #d934c6, #2980b9);
+  background-image: -moz-linear-gradient(top, #d934c6, #2980b9);
+  background-image: -ms-linear-gradient(top, #d934c6, #2980b9);
+  background-image: -o-linear-gradient(top, #d934c6, #2980b9);
+  background-image: linear-gradient(to bottom, #d934c6, #2980b9);
+  -webkit-border-radius: 23;
+  -moz-border-radius: 23;
+  border-radius: 23px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #faae3c;
+  background-image: -webkit-linear-gradient(top, #faae3c, #3498db);
+  background-image: -moz-linear-gradient(top, #faae3c, #3498db);
+  background-image: -ms-linear-gradient(top, #faae3c, #3498db);
+  background-image: -o-linear-gradient(top, #faae3c, #3498db);
+  background-image: linear-gradient(to bottom, #faae3c, #3498db);
+  text-decoration: none;
+}
+.to{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    padding-bottom: 10px;
+    color: #161d6f;
+    font-size: 0.75rem;
+    padding-top: 30px;
+    
+}
+.bottomcontainer{
+    padding-top: 50px;
+    padding-bottom: 30px;
+    background-color: #83a95c;
+    
+    
+}
+.footer{
+    margin: 10px;
+    
+}
+a:hover{
+    color: burlywood;
+}
